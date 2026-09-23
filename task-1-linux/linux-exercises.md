@@ -58,4 +58,19 @@ kill
 
 ## Evidence
 
-Screenshots are available in the screenshots folder.
+The following screenshots provide evidence of the practical work completed for this task.
+
+1. VirtualBox installation
+2. Ubuntu environment
+3. Basic Linux commands
+4. Linux file system operations
+5. Directory and file creation
+6. Linux command history
+7. File permissions
+8. Process management
+9. Terminal command execution
+10. GitHub repository
+11. Task documentation
+12. Practical execution evidence
+
+All screenshots are available in the `screenshots` directory.
